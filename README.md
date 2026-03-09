@@ -17,4 +17,7 @@ Insights:
 - Review score distribution suggests generally positive satisfaction but repeat purchasing remains low.
 
 Dashboard Preview:
+
 ![Dashboard](olist_dashboard.png)
+
+Live Dashboard: https://public.tableau.com/app/profile/anshita.g4276/viz/olist_ecommerce_analysis/Dashboard?publish=yes
