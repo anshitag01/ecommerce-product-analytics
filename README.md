@@ -21,3 +21,5 @@ Dashboard Preview:
 ![Dashboard](olist_dashboard.png)
 
 Live Dashboard: https://public.tableau.com/app/profile/anshita.g4276/viz/olist_ecommerce_analysis/Dashboard?publish=yes
+
+Dataset used: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
